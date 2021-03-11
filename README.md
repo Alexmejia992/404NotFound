@@ -59,5 +59,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://www.github.com/Alexmejia992)
-- Instagram [@your-instagram](https://www.instagram.com/alexmejia.992/?hl=es-la)
+- GitHub [@alexmejia992 ](https://www.github.com/Alexmejia992)
+- Instagram [@alexmejia.992](https://www.instagram.com/alexmejia.992/?hl=es-la)
