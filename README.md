@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    
+    <span> | </span>
     <a href="https://not-found-master-404.netlify.app">
       Solution
     </a>
