@@ -38,12 +38,10 @@
 
 ![screenshot](https://res.cloudinary.com/da3durqbv/image/upload/v1615481684/msivjcqadmvxedujtask.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+
+- Other of my projects for one of my favouritetes web desing challenges pages.
+- Making with love in record time.
 
 ### Built With
 
@@ -61,5 +59,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/Alexmejia992})
-- Instagram [@your-instagram](https://{instagram.com/alexmejia.992/?hl=es-la})
+- GitHub [@your-username](https://www.github.com/Alexmejia992)
+- Instagram [@your-instagram](https://www.instagram.com/alexmejia.992/?hl=es-la)
