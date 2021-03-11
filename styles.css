@@ -1,0 +1,76 @@
+:root{
+    --fuentePrincipal: 'Space Mono', monospace;
+    --fuenteSecundaria: 'Inconsolata', monospace;
+    
+    --primario: #794D3C;
+    --gris1: #333333;
+    --gris2: #4f4f4f;
+    --blanco: #f8f8f8;
+    --negro: #0f0f0f;
+    
+}
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+    color: var(--gris1);
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+body{
+    font-family: var(--fuentePrincipal);
+    font-size: 2.4rem;
+    line-height: 2;
+}
+/* Globales */
+.contenedor{
+    max-width: 120rem;
+    width: 90%;
+    width: min(90%, 120rem); /* es igual a la propiedad definida en las lineas de arriba */
+    margin: 0 auto;
+}
+/* section */
+
+
+.section{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    padding: 10rem 0;
+}
+@media (min-width: 480px) {
+   .section{
+    padding: 20.6rem 0;
+    
+} 
+}
+
+/* section izquierda */
+.section-izquierda img{
+    width: 100%;
+    height: auto;
+    /* object-fit: cover; */
+}
+/* section derecha */
+.section-derecha h1{
+    font-size: 6.4rem;
+    line-height: 9.4rem;
+    letter-spacing: -0.035em;
+    font-weight: 700;
+}
+.section-derecha p{
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+    color: var(--gris2);
+}
+/* boton */
+.boton{
+    background-color: var(--gris1);
+    font-size: 1.4rem;
+    font-weight: bold;
+    line-height: 2.1rem;
+    letter-spacing: -0.035em;
+    color: var(--blanco);
+    border: none;
+    padding: 2.4rem 4.3rem;
+}
